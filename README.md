@@ -1,1 +1,1 @@
-"# ud_aitnd_project8" 
+# Udacity AI for trading project 8
